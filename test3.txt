@@ -1,0 +1,2 @@
+\documentclass{article} \begin{document} $ ( \Box p \implies \Diamond p ) $ \end{document}
+

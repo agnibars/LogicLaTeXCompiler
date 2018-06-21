@@ -1,0 +1,1 @@
+\documentclass{article} \begin{document} $ ( p \lor \neg p ) $ \end{document}
